@@ -1,0 +1,268 @@
+{
+  "version": 3,
+  "rate": 44100,
+  "sounds": {
+    "step": [
+      "step_0.wav",
+      "step_1.wav",
+      "step_2.wav",
+      "step_3.wav",
+      "step_4.wav",
+      "step_5.wav"
+    ],
+    "step_ai": [
+      "step_ai_0.wav",
+      "step_ai_1.wav",
+      "step_ai_2.wav",
+      "step_ai_3.wav",
+      "step_ai_4.wav",
+      "step_ai_5.wav"
+    ],
+    "dig": [
+      "dig_0.wav",
+      "dig_1.wav",
+      "dig_2.wav",
+      "dig_3.wav",
+      "dig_4.wav",
+      "dig_5.wav"
+    ],
+    "wait": [
+      "wait_0.wav",
+      "wait_1.wav",
+      "wait_2.wav",
+      "wait_3.wav",
+      "wait_4.wav",
+      "wait_5.wav"
+    ],
+    "swing": [
+      "swing_0.wav",
+      "swing_1.wav",
+      "swing_2.wav",
+      "swing_3.wav",
+      "swing_4.wav",
+      "swing_5.wav"
+    ],
+    "clang": [
+      "clang_0.wav",
+      "clang_1.wav",
+      "clang_2.wav",
+      "clang_3.wav",
+      "clang_4.wav",
+      "clang_5.wav"
+    ],
+    "stun": [
+      "stun_0.wav",
+      "stun_1.wav",
+      "stun_2.wav",
+      "stun_3.wav",
+      "stun_4.wav",
+      "stun_5.wav"
+    ],
+    "crumble": [
+      "crumble_0.wav",
+      "crumble_1.wav",
+      "crumble_2.wav",
+      "crumble_3.wav",
+      "crumble_4.wav",
+      "crumble_5.wav"
+    ],
+    "push": [
+      "push_0.wav",
+      "push_1.wav",
+      "push_2.wav",
+      "push_3.wav",
+      "push_4.wav",
+      "push_5.wav"
+    ],
+    "hook_throw": [
+      "hook_throw_0.wav",
+      "hook_throw_1.wav",
+      "hook_throw_2.wav",
+      "hook_throw_3.wav",
+      "hook_throw_4.wav",
+      "hook_throw_5.wav"
+    ],
+    "hook_pull": [
+      "hook_pull_0.wav",
+      "hook_pull_1.wav",
+      "hook_pull_2.wav",
+      "hook_pull_3.wav",
+      "hook_pull_4.wav",
+      "hook_pull_5.wav"
+    ],
+    "arm": [
+      "arm_0.wav",
+      "arm_1.wav",
+      "arm_2.wav",
+      "arm_3.wav",
+      "arm_4.wav",
+      "arm_5.wav"
+    ],
+    "gem_v": [
+      "gem_v_0.wav",
+      "gem_v_1.wav",
+      "gem_v_2.wav",
+      "gem_v_3.wav",
+      "gem_v_4.wav",
+      "gem_v_5.wav"
+    ],
+    "gem_r": [
+      "gem_r_0.wav",
+      "gem_r_1.wav",
+      "gem_r_2.wav",
+      "gem_r_3.wav",
+      "gem_r_4.wav",
+      "gem_r_5.wav"
+    ],
+    "unlock": [
+      "unlock_0.wav",
+      "unlock_1.wav"
+    ],
+    "burn": [
+      "burn_0.wav",
+      "burn_1.wav",
+      "burn_2.wav",
+      "burn_3.wav",
+      "burn_4.wav",
+      "burn_5.wav"
+    ],
+    "bite": [
+      "bite_0.wav",
+      "bite_1.wav",
+      "bite_2.wav",
+      "bite_3.wav",
+      "bite_4.wav",
+      "bite_5.wav"
+    ],
+    "crush": [
+      "crush_0.wav",
+      "crush_1.wav",
+      "crush_2.wav",
+      "crush_3.wav",
+      "crush_4.wav",
+      "crush_5.wav"
+    ],
+    "hurt": [
+      "hurt_0.wav",
+      "hurt_1.wav",
+      "hurt_2.wav",
+      "hurt_3.wav",
+      "hurt_4.wav",
+      "hurt_5.wav"
+    ],
+    "thud": [
+      "thud_0.wav",
+      "thud_1.wav",
+      "thud_2.wav",
+      "thud_3.wav",
+      "thud_4.wav",
+      "thud_5.wav"
+    ],
+    "splat": [
+      "splat_0.wav",
+      "splat_1.wav",
+      "splat_2.wav",
+      "splat_3.wav",
+      "splat_4.wav",
+      "splat_5.wav"
+    ],
+    "rattle": [
+      "rattle_0.wav",
+      "rattle_1.wav",
+      "rattle_2.wav",
+      "rattle_3.wav",
+      "rattle_4.wav",
+      "rattle_5.wav"
+    ],
+    "death": [
+      "death_0.wav",
+      "death_1.wav",
+      "death_2.wav",
+      "death_3.wav",
+      "death_4.wav",
+      "death_5.wav"
+    ],
+    "exit": [
+      "exit_0.wav",
+      "exit_1.wav"
+    ],
+    "victory": [
+      "victory_0.wav",
+      "victory_1.wav"
+    ],
+    "defeat": [
+      "defeat_0.wav",
+      "defeat_1.wav"
+    ],
+    "hover": [
+      "hover_0.wav",
+      "hover_1.wav",
+      "hover_2.wav",
+      "hover_3.wav",
+      "hover_4.wav",
+      "hover_5.wav"
+    ],
+    "click": [
+      "click_0.wav",
+      "click_1.wav",
+      "click_2.wav",
+      "click_3.wav",
+      "click_4.wav",
+      "click_5.wav"
+    ],
+    "error": [
+      "error_0.wav",
+      "error_1.wav",
+      "error_2.wav",
+      "error_3.wav",
+      "error_4.wav",
+      "error_5.wav"
+    ],
+    "mine_place": [
+      "mine_place_0.wav",
+      "mine_place_1.wav",
+      "mine_place_2.wav",
+      "mine_place_3.wav",
+      "mine_place_4.wav",
+      "mine_place_5.wav"
+    ],
+    "explode": [
+      "explode_0.wav",
+      "explode_1.wav",
+      "explode_2.wav",
+      "explode_3.wav",
+      "explode_4.wav",
+      "explode_5.wav"
+    ],
+    "freeze": [
+      "freeze_0.wav",
+      "freeze_1.wav",
+      "freeze_2.wav",
+      "freeze_3.wav",
+      "freeze_4.wav",
+      "freeze_5.wav"
+    ],
+    "thaw": [
+      "thaw_0.wav",
+      "thaw_1.wav",
+      "thaw_2.wav",
+      "thaw_3.wav",
+      "thaw_4.wav",
+      "thaw_5.wav"
+    ],
+    "grind": [
+      "grind_0.wav",
+      "grind_1.wav",
+      "grind_2.wav",
+      "grind_3.wav",
+      "grind_4.wav",
+      "grind_5.wav"
+    ],
+    "fire_loop": [
+      "fire_loop_0.wav"
+    ],
+    "beam_loop": [
+      "beam_loop_0.wav"
+    ]
+  }
+}
