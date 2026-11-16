@@ -1,0 +1,16 @@
+DIAMOND QUEST — SAMPLE INSTRUMENT AND SCORE CREDITS
+
+The active expedition-thriller score is produced by Production/compose_action_thriller.py,
+combining original procedural bass and percussion with sampled strings and brass.
+The new original compositions and stings are described by the included Python,
+MIDI and event sources in Production/. The game plays pre-rendered Ogg/WAV files.
+
+Instrument source: TimGM6mb.sf2
+Copyright 2004 Tim Brechbill and 2010 David Bolton.
+License: GNU General Public License, version 2 (GPL-2).
+The unmodified instrument source is included as Production/resources/TimGM6mb.sf2.
+The complete upstream copyright notice and license are included in this directory.
+FluidSynth was used as an offline renderer; it is not required or bundled for play.
+
+Material sound effects use original deterministic synthesis in sound_design.py.
+This sample-source notice does not change the license of the user's game code.
