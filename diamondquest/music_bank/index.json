@@ -1,0 +1,28 @@
+{
+  "version": 5,
+  "style": "Driving expedition action thriller",
+  "rate": 44100,
+  "tracks": {
+    "jungle": {
+      "title": "Danger in the Ruins",
+      "bpm": 126,
+      "length": 91.42857142857142,
+      "a": "jungle_a.ogg",
+      "b": "jungle_b.ogg"
+    },
+    "frost": {
+      "title": "Icebound Pursuit",
+      "bpm": 130,
+      "length": 88.61538461538461,
+      "a": "frost_a.ogg",
+      "b": "frost_b.ogg"
+    },
+    "ember": {
+      "title": "Cinder Run",
+      "bpm": 138,
+      "length": 83.47826086956522,
+      "a": "ember_a.ogg",
+      "b": "ember_b.ogg"
+    }
+  }
+}
