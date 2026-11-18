@@ -1,0 +1,36 @@
+{
+  "protected_runtime_files_unchanged": 253,
+  "sound_effects": "byte-for-byte unchanged",
+  "tracks": {
+    "jungle": {
+      "title": "Danger in the Ruins",
+      "bpm": 126,
+      "seconds": 91.42857142857143,
+      "integrated_lufs": -16.64,
+      "previous_lufs": -24.25,
+      "midrange_energy_fraction": 0.49907178656904255,
+      "minimum_quarter_second_rms": 0.06913573294878006,
+      "sample_peak": 0.8001906871795654
+    },
+    "frost": {
+      "title": "Icebound Pursuit",
+      "bpm": 130,
+      "seconds": 88.61537414965986,
+      "integrated_lufs": -16.65,
+      "previous_lufs": -24.31,
+      "midrange_energy_fraction": 0.5819364997985055,
+      "minimum_quarter_second_rms": 0.06996796280145645,
+      "sample_peak": 0.7923583984375
+    },
+    "ember": {
+      "title": "Cinder Run",
+      "bpm": 138,
+      "seconds": 83.47825396825397,
+      "integrated_lufs": -16.66,
+      "previous_lufs": -24.22,
+      "midrange_energy_fraction": 0.4892092372926642,
+      "minimum_quarter_second_rms": 0.08185286074876785,
+      "sample_peak": 0.7404071688652039
+    }
+  }
+}
