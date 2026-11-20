@@ -1,0 +1,40 @@
+DIAMOND QUEST — EXPEDITION EDITION
+
+1. Extract the entire ZIP. Keep main.py and the diamondquest folder together.
+2. On Windows, double-click "Play Diamond Quest.bat".
+   Python 3.9 or newer must be installed, with Python added to PATH.
+   The launcher installs pygame and numpy if needed.
+3. Choose BEGIN EXPEDITION, then START MATCH.
+
+Other systems:
+  python3 -m pip install -r requirements.txt
+  python3 main.py
+
+Controls:
+  WASD or arrows    Move
+  H / P / K        Hammer / push / hook, then press a direction
+  E                Place a mine, then choose a direction
+  Space            Wait
+  C                Switch between player, AI, and shared cameras
+  G                Toggle cell boundaries and movement-count overlay
+  M                Large map
+  Tab              Show/hide minimap
+  Esc              Pause
+
+The first launch prepares and caches the artwork. Music and effects are pre-rendered.
+All image assets are included. No image-generation service or API key is needed.
+Game rules, scores, costs, damage, maps and AI are preserved.
+All 34 original sound-effect categories have replacement designs in this update.
+New: 190 sound clips, three adaptive orchestral themes, HD replacement characters,
+42-frame snake strikes, a full burn mantle, and slumped/recovering stun animations.
+You control the blue-gi boy with the S badge. The red-haired girl with the A badge
+is the AI rival. Her front-facing poses look straight forward. Neither carries
+a torch or staff.
+Frost Cavern: smooth blue-gray paths are open, granular gray-brown ground is
+diggable, and dark raised rock blocks are solid. The M map includes a terrain legend.
+The background music uses driving 126-138 BPM action-thriller themes with drums,
+bass, rapid strings, melodic hooks and builds. The sound effects are unchanged.
+A music-only sampler is included in Previews. Restart the game after updating.
+Hover a cell to see walking moves and a numbered route. Hazards may add delays.
+
+Full rules and technical details are in README.md.
