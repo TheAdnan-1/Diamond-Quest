@@ -17,6 +17,11 @@ You control the blue-gi boy wearing **S**; the red-haired girl wearing **A** is 
 show/hide cell borders. Hover a cell to see its coordinates, shortest walking-move
 count, numbered route and whether that route crosses a hazard.
 
+## Gameplay videos
+
+- [Watch gameplay video 1](https://drive.google.com/file/d/1eUVnB1m4mWe8-Ve4XpVvU7TMPPdO-n9w/view?usp=sharing)
+- [Watch gameplay video 2](https://drive.google.com/file/d/1sRjXG_rdRFpFK7u6NqUgSabRkLrsPHOa/view?usp=sharing)
+
 ## Install and run
 
 Requires Python 3.9+ (64-bit).
