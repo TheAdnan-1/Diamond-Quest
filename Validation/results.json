@@ -1,0 +1,176 @@
+{
+  "checks": [
+    {
+      "case": "Frost Readability",
+      "events": [
+        "wait"
+      ],
+      "duration": 1.8
+    },
+    {
+      "case": "Hammer",
+      "events": [
+        "hammer",
+        "damage",
+        "wait"
+      ],
+      "duration": 1.8
+    },
+    {
+      "case": "Push",
+      "events": [
+        "push",
+        "damage",
+        "wait"
+      ],
+      "duration": 1.8
+    },
+    {
+      "case": "Hook",
+      "events": [
+        "hook",
+        "damage",
+        "wait"
+      ],
+      "duration": 1.94
+    },
+    {
+      "case": "Statue Turn",
+      "events": [
+        "hook",
+        "damage",
+        "wait"
+      ],
+      "duration": 1.94
+    },
+    {
+      "case": "Snake Bite",
+      "events": [
+        "move",
+        "bite",
+        "damage"
+      ],
+      "duration": 1.92
+    },
+    {
+      "case": "Snake Stun",
+      "events": [
+        "hammer",
+        "damage",
+        "wait"
+      ],
+      "duration": 1.8
+    },
+    {
+      "case": "Fire Damage",
+      "events": [
+        "move",
+        "damage"
+      ],
+      "duration": 2.37
+    },
+    {
+      "case": "Bomb Explosion",
+      "events": [
+        "move",
+        "mine",
+        "damage"
+      ],
+      "duration": 2.47
+    },
+    {
+      "case": "Boulder Hit",
+      "events": [
+        "wait",
+        "fall",
+        "fall",
+        "fall",
+        "crush",
+        "damage"
+      ],
+      "duration": 2.02
+    },
+    {
+      "case": "Freeze Beam",
+      "events": [
+        "move",
+        "freeze",
+        "damage"
+      ],
+      "duration": 1.8
+    },
+    {
+      "case": "Mine Placement",
+      "events": [
+        "mine_place",
+        "wait"
+      ],
+      "duration": 1.8
+    },
+    {
+      "case": "Cell Visibility",
+      "events": [
+        "wait"
+      ],
+      "duration": 1.8
+    },
+    {
+      "case": "AI Hammer",
+      "events": [
+        "hammer",
+        "damage",
+        "wait"
+      ],
+      "duration": 1.8
+    },
+    {
+      "case": "Rival Walk",
+      "events": [
+        "move"
+      ],
+      "duration": 1.8
+    },
+    {
+      "actor": 0,
+      "case": "Hammer"
+    },
+    {
+      "actor": 0,
+      "case": "Hammer Up"
+    },
+    {
+      "actor": 0,
+      "case": "Hammer Down"
+    },
+    {
+      "actor": 0,
+      "case": "Push"
+    },
+    {
+      "actor": 0,
+      "case": "Hook"
+    },
+    {
+      "actor": 1,
+      "case": "Hammer"
+    },
+    {
+      "actor": 1,
+      "case": "Hammer Up"
+    },
+    {
+      "actor": 1,
+      "case": "Hammer Down"
+    },
+    {
+      "actor": 1,
+      "case": "Push"
+    },
+    {
+      "actor": 1,
+      "case": "Hook"
+    }
+  ],
+  "textures": 887,
+  "seconds": 158.84
+}

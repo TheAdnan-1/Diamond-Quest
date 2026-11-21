@@ -1,0 +1,25 @@
+{
+  "unchanged": [
+    "world.py",
+    "ai.py",
+    "mapgen.py",
+    "logic.py",
+    "search.py",
+    "adversarial.py",
+    "fuzzy.py",
+    "csp.py",
+    "pddl_planner.py",
+    "nlp.py",
+    "config.py",
+    "pddl/domain.pddl"
+  ],
+  "replaced_music_stems": [
+    "diamondquest/music_bank/jungle_a.ogg",
+    "diamondquest/music_bank/jungle_b.ogg",
+    "diamondquest/music_bank/frost_a.ogg",
+    "diamondquest/music_bank/frost_b.ogg",
+    "diamondquest/music_bank/ember_a.ogg",
+    "diamondquest/music_bank/ember_b.ogg"
+  ],
+  "boy_player_girl_ai": true
+}

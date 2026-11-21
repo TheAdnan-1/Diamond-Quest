@@ -1,0 +1,32 @@
+BACKGROUND MUSIC REVISION — VALIDATION
+
+This revision changes the background music and its production/documentation only.
+All 253 other runtime files were compared with the previous delivered build and
+are byte-for-byte unchanged. This includes every sound-effect clip, ambience bed,
+sound-design and playback code, all character/environment artwork and animations,
+all rules, maps, controls and AI modules.
+
+The active score is music_bank/index.json version 5:
+- Jungle / Danger in the Ruins: 126 BPM, 91.429 seconds.
+- Frost / Icebound Pursuit: 130 BPM, 88.615 seconds.
+- Ember / Cinder Run: 138 BPM, 83.478 seconds.
+Each has a full-groove main stem and an exact-length additive intensity stem.
+All six stems were confirmed different from the previous build.
+
+Audio checks passed:
+- The game's real audio player loaded all three A/B pairs and switched biomes.
+- Main tracks measure about -16.6 integrated LUFS after Vorbis encoding,
+  compared with about -24.3 in the previous music. Existing game volume settings
+  are unchanged. Main-stem sample peaks remain below 0.81 full scale.
+- All channels are finite, stereo, correctly decoded, with matched stem lengths.
+- No silent quarter-second windows; the full rhythmic groove is present in stem A.
+- Midrange presence, headroom, playback, intensity mixing and mute were checked.
+- All 36 sound-effect families / 190 clips retain their exact original bytes.
+- ZIP integrity and source compilation passed.
+
+The unchanged visual build was previously validated with 25 rendering scenarios,
+including both characters' tools, S/A badges, Frost terrain and all major hazards.
+The gameplay preview has the new music. The music-only MP3 samples all three themes.
+
+Evidence: Validation/music_revision.json and music_revision_runtime_hashes.json.
+All music is bundled. No runtime network, API key or production tools are needed.
